@@ -1,0 +1,12 @@
++ A.1 Başla
+ + A.2 a = 1
+ + A.3 b = 1
+ A.4 + c = 1
+ + A.5 C (a, b) = A (a, c) * B (c, b)
+ + A.6 Eger c = 3 imkb A.8 'ye git
+ + A.7 c = c +1 al A.5 'e git A.Ş.
+ + A.8 Eger a = 3 imkb A.10 'a git
+ + A.9 a = a 1 el A.4 'e git A.Ş.
+ + A.10 Eger b = 3 imkb A.12 'ye git
+ + A.11 b = b +1 al A.4 'e budala A.Ş.
+ + A.12 Dur
